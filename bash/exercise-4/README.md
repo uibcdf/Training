@@ -31,7 +31,7 @@ nohup ./my_sleep.sh > output.txt 2> errors.log &
 Now, in the same terminal do:
 
 ```bash
-./kill\_sleep.sh
+./kill_sleep.sh
 ```
 
 ## Questions
