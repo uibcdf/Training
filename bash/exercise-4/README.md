@@ -1,4 +1,4 @@
-# Bash: Exercise 3
+# Bash: Exercise 4
 
 Write a bash script to kill an active process.
 
